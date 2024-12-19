@@ -9,5 +9,9 @@
 </head>
 <body>
 <h1>HelloStruts2!</h1>
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
 </body>
 </html>
